@@ -1,7 +1,8 @@
 # Rember-Pandownload
-## 永远铭记英雄“蔡某萌”！
+## 永远铭记英雄“蔡某萌”
 
-![原微博已被删除](https://img1.imgtp.com/2022/08/08/1IZwUoes.jpg)
+![](https://user-images.githubusercontent.com/57991009/206156512-117755ed-91a9-437b-8663-3a2066f50873.jpg)
+
 
 *名人名言：更稳定的内测版*
 
